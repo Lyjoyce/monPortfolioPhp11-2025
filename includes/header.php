@@ -1,6 +1,6 @@
 <header class="site-header">
     <div class="logo">
-        <a href="#">Thomas BDC</a>
+        <a href="#">Sabrina L</a>
     </div>
     <nav class="main-nav">
         <ul>
